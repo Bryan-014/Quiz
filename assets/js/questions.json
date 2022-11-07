@@ -1,0 +1,317 @@
+[
+  {
+    "ques": "Como é definido um operador ternário em JavaScript?",
+    "opcs": [
+      {
+        "resp": "cond : exp1 ? exp2",
+        "is": false
+      },
+      {
+        "resp": "cond ? exp1 | exp2",
+        "is": false
+      },
+      {
+        "resp": "cond ? exp1 : exp2",
+        "is": true
+      },
+      {
+        "resp": "cond | exp1 ? exp2",
+        "is": false
+      }
+    ]
+  },
+  {
+    "ques": "Qual é a setima música do álbum 'The End, So Far' do Slipknot?",
+    "opcs": [
+      {
+        "resp": "Medicine for the Dead",
+        "is": true
+      },
+      {
+        "resp": "Finale",
+        "is": false
+      },
+      {
+        "resp": "Heirloom",
+        "is": false
+      },
+      {
+        "resp": "Acidic",
+        "is": false
+      }
+    ]
+  },
+  {
+    "ques": "Em Grey's Anathomy, qual temporada e episódio Preston Burke é baleado?",
+    "opcs": [
+      {
+        "resp": "T-2 E-26",
+        "is": false
+      },
+      {
+        "resp": "T-3 E-1",
+        "is": false
+      },
+      {
+        "resp": "T-2 E-24",
+        "is": false
+      },
+      {
+        "resp": "T-2 E-25",
+        "is": true
+      }
+    ]
+  },
+  {
+    "ques": "Quantas vezes o Palmeniras já foi campeão do brasileirão?",
+    "opcs": [
+      {
+        "resp": "10",
+        "is": false
+      },
+      {
+        "resp": "11",
+        "is": true
+      },
+      {
+        "resp": "9",
+        "is": false
+      },
+      {
+        "resp": "6",
+        "is": false
+      }
+    ]
+  },
+  {
+    "ques": "Qual órgão do corpo humando é atacado pela tuberculose?",
+    "opcs": [
+      {
+        "resp": "Cérebro",
+        "is": false
+      },
+      {
+        "resp": "Rim",
+        "is": false
+      },
+      {
+        "resp": "Coração",
+        "is": false
+      },
+      {
+        "resp": "Pulmão",
+        "is": true
+      }
+    ]
+  },
+  {
+    "ques": "Qual é o maior órgão do corpo humano?",
+    "opcs": [
+      {
+        "resp": "Pele",
+        "is": true
+      },
+      {
+        "resp": "Intestino",
+        "is": false
+      },
+      {
+        "resp": "Estomago",
+        "is": false
+      },
+      {
+        "resp": "Pulmão",
+        "is": false
+      }
+    ]
+  },
+  {
+    "ques": "Qual é o órgão mais importante do sistema respiratório?",
+    "opcs": [
+      {
+        "resp": "Faringe",
+        "is": false
+      },
+      {
+        "resp": "Láringe",
+        "is": false
+      },
+      {
+        "resp": "Estomago",
+        "is": false
+      },
+      {
+        "resp": "Pulmão",
+        "is": true
+      }
+    ]
+  },
+  {
+    "ques": "Quem é o diretor do filme 'Jurassic Park'?",
+    "opcs": [
+      {
+        "resp": "Steven Spielberg",
+        "is": true
+      },
+      {
+        "resp": "Nolan Ryan",
+        "is": false
+      },
+      {
+        "resp": "Quentin Tarantino",
+        "is": false
+      },
+      {
+        "resp": "Tim Burton",
+        "is": false
+      }
+    ]
+  },
+  {
+    "ques": "Qual animal é o Sonic, personagem dos jogos eletronicos criado pela sega?",
+    "opcs": [
+      {
+        "resp": "Sapo",
+        "is": false
+      },
+      {
+        "resp": "Lagosta",
+        "is": false
+      },
+      {
+        "resp": "Ouriço",
+        "is": true
+      },
+      {
+        "resp": "Aranha",
+        "is": false
+      }
+    ]
+  },
+  {
+    "ques": "Qual a principal cor do time Manchester United?",
+    "opcs": [
+      {
+        "resp": "Amarelo",
+        "is": false
+      },
+      {
+        "resp": "Branco",
+        "is": false
+      },
+      {
+        "resp": "Azul",
+        "is": false
+      },
+      {
+        "resp": "Vermelho",
+        "is": true
+      }
+    ]
+  },
+  {
+    "ques": "Qual o país de origem dos Beatles?",
+    "opcs": [
+      {
+        "resp": "Estados Unidos",
+        "is": false
+      },
+      {
+        "resp": "Inglaterra",
+        "is": true
+      },
+      {
+        "resp": "Rússia",
+        "is": false
+      },
+      {
+        "resp": "Itália",
+        "is": false
+      }
+    ]
+  },
+  {
+    "ques": "Qual é o veiculo amarelo da música dos Beatles de 1966?",
+    "opcs": [
+      {
+        "resp": "Submarino",
+        "is": true
+      },
+      {
+        "resp": "Ônibus",
+        "is": false
+      },
+      {
+        "resp": "Trem",
+        "is": false
+      },
+      {
+        "resp": "Avião",
+        "is": false
+      }
+    ]
+  },
+  {
+    "ques": "Quem ganhou por plebiscito o governo vitalício da França como imperador?",
+    "opcs": [
+      {
+        "resp": "Eva Peron",
+        "is": false
+      },
+      {
+        "resp": "Getúlio Vargas",
+        "is": false
+      },
+      {
+        "resp": "Napoleão Bonaparte",
+        "is": true
+      },
+      {
+        "resp": "Oto Von Bismark",
+        "is": false
+      }
+    ]
+  },
+  {
+    "ques": "A medida de 1 pé corresponde a:",
+    "opcs": [
+      {
+        "resp": "30,48 cm",
+        "is": true
+      },
+      {
+        "resp": "29,92 cm",
+        "is": false
+      },
+      {
+        "resp": "31,05 cm",
+        "is": false
+      },
+      {
+        "resp": "30,50 cm",
+        "is": false
+      }
+    ]
+  },
+  {
+    "ques": "A partir de qual idade a pessoa é considerada idosa?",
+    "opcs": [
+      {
+        "resp": "50 anos",
+        "is": false
+      },
+      {
+        "resp": "60 anos",
+        "is": true
+      },
+      {
+        "resp": "70 anos",
+        "is": false
+      },
+      {
+        "resp": "80 anos",
+        "is": false
+      }
+    ]
+  }
+]

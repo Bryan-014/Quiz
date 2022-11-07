@@ -1,0 +1,102 @@
+html,
+body {
+  background-color: #2919dd;
+}
+
+#game_content {
+  width: 45%;
+  height: 200px;
+  background-color: #43a0f0;
+  margin-inline: auto;
+  text-align: center;
+  position: relative;
+  border-radius: 15px;
+  color: #fff;
+}
+
+.numberQues {
+  position: absolute;
+  padding: 5px;
+  background-color: #2919dd;
+  margin: 3px;
+  width: 17px;
+  height: 17px;
+  color: #fff;
+  border-radius: 50%;
+}
+
+.ques {
+  width: 90%;
+  padding-top: 15px;
+  margin-inline: auto;
+  text-align: center;
+  font-size: 18px;
+}
+
+#opts {
+  display: block;
+  position: absolute;
+  bottom: 25px;
+  width: 100%;
+}
+
+#opts input {
+  width: 45%;
+  border: none;
+  height: 35px;
+  background-color: #2919dd;
+  margin: 5px;
+  transition: all 0.2s;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #fff;
+}
+
+#opts input:hover {
+  background-color: #161660;
+}
+
+.copy {
+  position: absolute;
+  right: 5px;
+  bottom: 0;
+  font-size: 12px;
+}
+
+@media (max-width: 768px) {
+  #game_content {
+    width: 98%;
+    height: 350px;
+  }
+
+  .ques {
+    width: 78%;
+  }
+
+  #opts input {
+    width: 95%;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  html,
+  body {
+    background-color: #120f34;
+  }
+
+  #game_content {
+    background-color: #2919dd;
+  }
+
+  .numberQues {
+    background-color: #120f34;
+  }
+
+  #opts input {
+    background-color: #120f34;
+  }
+
+  #opts input:hover {
+    background-color: #0a0a1b;
+  }
+}
